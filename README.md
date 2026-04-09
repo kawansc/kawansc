@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_login: kawansc
+          github_user_name: kawansc
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
