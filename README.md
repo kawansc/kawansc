@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o Kawan </h1>
+<h1 align="center">Olá! Eu sou o Kawan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack+;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,10 +15,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawansc&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawansc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -54,7 +50,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kawansc-181717?style=for-the-badge&logo=github)](https://github.com/kawansc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawan%20Silva%20da%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawan-s-57780b2aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawansc)
+
 </div>
 
 ---
