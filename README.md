@@ -75,6 +75,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kawansc-181717?style=for-the-badge&logo=github)](https://github.com/kawansc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawan+Silva+da+Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawansc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawan-Silva-da-Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawansc)
 
 </div>
