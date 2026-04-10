@@ -18,7 +18,12 @@
 </div>
 
 ---
+# 👨‍💻 Sobre mim
 
+💻 Desenvolvedor Fullstack apaixonado por tecnologia  
+🚀 Focado em evolução constante e novos desafios  
+📚 Atualmente focado no desenvolvimento das minhas habilidades em vendas
+Objetivo: me tornar um desenvolvedor completo e construir projetos impactantes  
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🎨 Front-end
